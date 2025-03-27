@@ -5,7 +5,7 @@
 ![](https://github.com/mengarelli/workshop-bridging-the-gap/actions/workflows/2-open-pr.yaml/badge.svg)
 ![](https://github.com/mengarelli/workshop-bridging-the-gap/actions/workflows/3-merge-pr.yaml/badge.svg)
 
-> Este repositório serve como guia para adoção de práticas GitHub em organizações de maior porte.  
+> Este repositório serve como guia para adoção de práticas GitHub em organizações de maior porte. Mod.
 > Aqui abordamos: criação de organização, configurações essenciais, padronização de ambientes, GitHub Actions e muito mais.
 
 ## Sobre o Workshop
